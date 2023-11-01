@@ -1,4 +1,7 @@
 # robot_yolo
+
+This code uses the YOLOv3 object detection model to detect and classify living and non-living objects in a video
+
 ## Output:
 
 The code will print the x1, x2, and label for each living and non-living object detected. The x1 and x2 values are the coordinates of the top-left and bottom-right corners of the bounding box, respectively. The label is either 'living' or 'nonliving'.
